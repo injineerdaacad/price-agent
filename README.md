@@ -1,6 +1,6 @@
 # Shopping Price Comparison Agent 🛒
 
-A 6-agent pipeline that finds, verifies, and ranks real sellers for a product: submit a query,
+A 6-stage pipeline that finds, verifies, and ranks real sellers for a product: submit a query,
 get an instant response, and watch Understanding → Search → Verification → Matching →
 Normalization → Ranking run in the background via Inngest while the UI polls for live progress.
 

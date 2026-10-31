@@ -84,7 +84,7 @@ export function ComparePanel() {
           </div>
           <h1 className="mt-3 text-2xl font-bold tracking-tight text-slate-900">Shopping Price Comparison Agent</h1>
           <p className="mt-1 text-sm text-slate-500">
-            A 6-agent pipeline finds, verifies, and ranks real sellers — lowest verified price first.
+            A 6-stage pipeline finds, verifies, and ranks real sellers — lowest verified price first.
           </p>
         </div>
 
